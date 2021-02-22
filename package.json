@@ -1,9 +1,9 @@
 {
+	"author": "Erich Malfertheiner",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Erich Malfertheiner",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
