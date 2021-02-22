@@ -1,6 +1,6 @@
 {
-	"author": "Erich Malfertheiner",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Erich Malfertheiner",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
